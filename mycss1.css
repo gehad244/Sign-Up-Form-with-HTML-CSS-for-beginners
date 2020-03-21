@@ -1,0 +1,58 @@
+*
+{
+  margin:  0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body
+{
+  background-image: url("andreas-nextvoyagepl-Ek3-ORVnI0A-unsplash.jpg")  ;
+  background-size: cover;
+}
+header
+{
+  width: 30%;
+  margin:auto;
+  overflow: hidden;
+  padding: 2rem;
+  background-color: #fff;
+  text-align: center;
+  border-radius: 10px;
+  margin-top: 7%;
+}
+hr
+{
+  width: 80%;
+}
+.fb
+{
+  padding: .5rem 2rem;
+  color: #fff;
+  background-color: #426782;
+  border-radius: 5px;
+}
+a
+{
+  text-decoration: none;
+}
+input
+{
+  padding: .5rem;
+  width: 70%;
+}
+.ch
+{
+  width: auto;
+}
+.btn
+{
+  padding: 1rem;
+  font-size: 1rem;
+  width: 50%;
+  border: none;
+  border-radius: 7px;
+  background-color: #2ecc71;
+
+}
+
+
